@@ -1,0 +1,15 @@
+Metrics/LineLength:
+  Max: 100
+
+Metrics/MethodLength:
+  Max: 10
+
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+
+Style/Documentation:
+  Enabled: false
+
+Style/PercentLiteralDelimiters:
+  Enabled: false
